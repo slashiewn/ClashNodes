@@ -56,17 +56,19 @@ proxy-groups:
       - 瑞士
       - 瑞士
       - 瑞士
-      - 瑞士
       - 土耳其
       - 土耳其
       - 土耳其
       - 希腊
+      - 意大利
       - 意大利
       - CA加拿大
       - CA加拿大
       - CA加拿大
       - CA加拿大
       - CA加拿大
+      - CA加拿大
+      - DE德国
       - DE德国
       - DE德国
       - DE德国
@@ -91,11 +93,15 @@ proxy-groups:
       - HK香港
       - HK香港
       - HK香港
+      - HK香港
+      - HK香港
       - JP日本
       - JP日本
       - JP日本
       - JP日本
       - JP日本
+      - KR韩国
+      - KR韩国
       - KR韩国
       - NL荷兰
       - NL荷兰
@@ -106,7 +112,8 @@ proxy-groups:
       - NL荷兰
       - NL荷兰
       - NL荷兰
-      - NL荷兰
+      - PL波兰
+      - RU俄罗斯
       - RU俄罗斯
       - RU俄罗斯
       - RU俄罗斯
@@ -114,7 +121,23 @@ proxy-groups:
       - RU俄罗斯
       - RU俄罗斯
       - SG新加坡
-      - TW台湾
+      - SG新加坡
+      - SG新加坡
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
       - US美国
       - US美国
       - US美国
@@ -160,17 +183,19 @@ proxy-groups:
       - 瑞士
       - 瑞士
       - 瑞士
-      - 瑞士
       - 土耳其
       - 土耳其
       - 土耳其
       - 希腊
+      - 意大利
       - 意大利
       - CA加拿大
       - CA加拿大
       - CA加拿大
       - CA加拿大
       - CA加拿大
+      - CA加拿大
+      - DE德国
       - DE德国
       - DE德国
       - DE德国
@@ -195,11 +220,15 @@ proxy-groups:
       - HK香港
       - HK香港
       - HK香港
+      - HK香港
+      - HK香港
       - JP日本
       - JP日本
       - JP日本
       - JP日本
       - JP日本
+      - KR韩国
+      - KR韩国
       - KR韩国
       - NL荷兰
       - NL荷兰
@@ -210,7 +239,8 @@ proxy-groups:
       - NL荷兰
       - NL荷兰
       - NL荷兰
-      - NL荷兰
+      - PL波兰
+      - RU俄罗斯
       - RU俄罗斯
       - RU俄罗斯
       - RU俄罗斯
@@ -218,7 +248,23 @@ proxy-groups:
       - RU俄罗斯
       - RU俄罗斯
       - SG新加坡
-      - TW台湾
+      - SG新加坡
+      - SG新加坡
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
       - US美国
       - US美国
       - US美国
@@ -270,17 +316,19 @@ proxy-groups:
       - 瑞士
       - 瑞士
       - 瑞士
-      - 瑞士
       - 土耳其
       - 土耳其
       - 土耳其
       - 希腊
+      - 意大利
       - 意大利
       - CA加拿大
       - CA加拿大
       - CA加拿大
       - CA加拿大
       - CA加拿大
+      - CA加拿大
+      - DE德国
       - DE德国
       - DE德国
       - DE德国
@@ -305,11 +353,15 @@ proxy-groups:
       - HK香港
       - HK香港
       - HK香港
+      - HK香港
+      - HK香港
       - JP日本
       - JP日本
       - JP日本
       - JP日本
       - JP日本
+      - KR韩国
+      - KR韩国
       - KR韩国
       - NL荷兰
       - NL荷兰
@@ -320,7 +372,8 @@ proxy-groups:
       - NL荷兰
       - NL荷兰
       - NL荷兰
-      - NL荷兰
+      - PL波兰
+      - RU俄罗斯
       - RU俄罗斯
       - RU俄罗斯
       - RU俄罗斯
@@ -328,7 +381,23 @@ proxy-groups:
       - RU俄罗斯
       - RU俄罗斯
       - SG新加坡
-      - TW台湾
+      - SG新加坡
+      - SG新加坡
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
       - US美国
       - US美国
       - US美国
@@ -376,17 +445,19 @@ proxy-groups:
       - 瑞士
       - 瑞士
       - 瑞士
-      - 瑞士
       - 土耳其
       - 土耳其
       - 土耳其
       - 希腊
+      - 意大利
       - 意大利
       - CA加拿大
       - CA加拿大
       - CA加拿大
       - CA加拿大
       - CA加拿大
+      - CA加拿大
+      - DE德国
       - DE德国
       - DE德国
       - DE德国
@@ -411,11 +482,15 @@ proxy-groups:
       - HK香港
       - HK香港
       - HK香港
+      - HK香港
+      - HK香港
       - JP日本
       - JP日本
       - JP日本
       - JP日本
       - JP日本
+      - KR韩国
+      - KR韩国
       - KR韩国
       - NL荷兰
       - NL荷兰
@@ -426,7 +501,8 @@ proxy-groups:
       - NL荷兰
       - NL荷兰
       - NL荷兰
-      - NL荷兰
+      - PL波兰
+      - RU俄罗斯
       - RU俄罗斯
       - RU俄罗斯
       - RU俄罗斯
@@ -434,7 +510,23 @@ proxy-groups:
       - RU俄罗斯
       - RU俄罗斯
       - SG新加坡
-      - TW台湾
+      - SG新加坡
+      - SG新加坡
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
       - US美国
       - US美国
       - US美国
@@ -482,17 +574,19 @@ proxy-groups:
       - 瑞士
       - 瑞士
       - 瑞士
-      - 瑞士
       - 土耳其
       - 土耳其
       - 土耳其
       - 希腊
+      - 意大利
       - 意大利
       - CA加拿大
       - CA加拿大
       - CA加拿大
       - CA加拿大
       - CA加拿大
+      - CA加拿大
+      - DE德国
       - DE德国
       - DE德国
       - DE德国
@@ -517,11 +611,15 @@ proxy-groups:
       - HK香港
       - HK香港
       - HK香港
+      - HK香港
+      - HK香港
       - JP日本
       - JP日本
       - JP日本
       - JP日本
       - JP日本
+      - KR韩国
+      - KR韩国
       - KR韩国
       - NL荷兰
       - NL荷兰
@@ -532,7 +630,8 @@ proxy-groups:
       - NL荷兰
       - NL荷兰
       - NL荷兰
-      - NL荷兰
+      - PL波兰
+      - RU俄罗斯
       - RU俄罗斯
       - RU俄罗斯
       - RU俄罗斯
@@ -540,7 +639,23 @@ proxy-groups:
       - RU俄罗斯
       - RU俄罗斯
       - SG新加坡
-      - TW台湾
+      - SG新加坡
+      - SG新加坡
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
       - US美国
       - US美国
       - US美国
@@ -588,17 +703,19 @@ proxy-groups:
       - 瑞士
       - 瑞士
       - 瑞士
-      - 瑞士
       - 土耳其
       - 土耳其
       - 土耳其
       - 希腊
+      - 意大利
       - 意大利
       - CA加拿大
       - CA加拿大
       - CA加拿大
       - CA加拿大
       - CA加拿大
+      - CA加拿大
+      - DE德国
       - DE德国
       - DE德国
       - DE德国
@@ -623,11 +740,15 @@ proxy-groups:
       - HK香港
       - HK香港
       - HK香港
+      - HK香港
+      - HK香港
       - JP日本
       - JP日本
       - JP日本
       - JP日本
       - JP日本
+      - KR韩国
+      - KR韩国
       - KR韩国
       - NL荷兰
       - NL荷兰
@@ -638,7 +759,8 @@ proxy-groups:
       - NL荷兰
       - NL荷兰
       - NL荷兰
-      - NL荷兰
+      - PL波兰
+      - RU俄罗斯
       - RU俄罗斯
       - RU俄罗斯
       - RU俄罗斯
@@ -646,7 +768,23 @@ proxy-groups:
       - RU俄罗斯
       - RU俄罗斯
       - SG新加坡
-      - TW台湾
+      - SG新加坡
+      - SG新加坡
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
       - US美国
       - US美国
       - US美国
@@ -711,17 +849,19 @@ proxy-groups:
       - 瑞士
       - 瑞士
       - 瑞士
-      - 瑞士
       - 土耳其
       - 土耳其
       - 土耳其
       - 希腊
+      - 意大利
       - 意大利
       - CA加拿大
       - CA加拿大
       - CA加拿大
       - CA加拿大
       - CA加拿大
+      - CA加拿大
+      - DE德国
       - DE德国
       - DE德国
       - DE德国
@@ -746,11 +886,15 @@ proxy-groups:
       - HK香港
       - HK香港
       - HK香港
+      - HK香港
+      - HK香港
       - JP日本
       - JP日本
       - JP日本
       - JP日本
       - JP日本
+      - KR韩国
+      - KR韩国
       - KR韩国
       - NL荷兰
       - NL荷兰
@@ -761,7 +905,8 @@ proxy-groups:
       - NL荷兰
       - NL荷兰
       - NL荷兰
-      - NL荷兰
+      - PL波兰
+      - RU俄罗斯
       - RU俄罗斯
       - RU俄罗斯
       - RU俄罗斯
@@ -769,7 +914,23 @@ proxy-groups:
       - RU俄罗斯
       - RU俄罗斯
       - SG新加坡
-      - TW台湾
+      - SG新加坡
+      - SG新加坡
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
       - US美国
       - US美国
       - US美国
