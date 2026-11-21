@@ -44,18 +44,34 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 爱尔兰
-      - 爱尔兰
-      - 爱尔兰
-      - 立陶宛
+      - DE德国
+      - DE德国
+      - DE德国
+      - RU俄罗斯
+      - RU俄罗斯
+      - NL荷兰
+      - NL荷兰
+      - 西班牙
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
       - 尼日利亚
       - 瑞典
       - 瑞典
-      - 瑞典
-      - 瑞典
-      - 瑞典
       - 塞舌尔
       - 塞舌尔
+      - TW台湾
+      - TW台湾
+      - TW台湾
+      - TW台湾
       - 西班牙
       - 西班牙
       - 西班牙
@@ -69,59 +85,22 @@ proxy-groups:
       - 意大利
       - 意大利
       - 意大利
+      - 意大利
+      - 意大利
+      - 意大利
+      - IN印度
+      - GB英国
       - CA加拿大
       - CA加拿大
       - CA加拿大
       - DE德国
       - DE德国
       - DE德国
-      - DE德国
-      - DE德国
-      - DE德国
-      - DE德国
-      - DE德国
-      - FR法国
       - GB英国
       - GB英国
-      - GB英国mibei77.com 米贝节点分享)
-      - GB英国mibei77.com 米贝节点分享) 
-      - GB英国mibei77.com 米贝节点分享) 
-      - GB英国mibei77.com 米贝节点分享) 
-      - GB英国mibei77.com 米贝节点分享) 
-      - GB英国mibei77.com 米贝节点分享) 
-      - GB英国mibei77.com 米贝节点分享) 
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
       - NL荷兰
       - NL荷兰
       - NL荷兰
-      - PL波兰
-      - PL波兰
-      - PL波兰
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - SG新加坡
       - SG新加坡
       - SG新加坡
       - TW台湾
@@ -129,8 +108,6 @@ proxy-groups:
       - TW台湾
       - TW台湾
       - TW台湾
-      - TW台湾
-      - TW台湾
       - US美国
       - US美国
       - US美国
@@ -155,47 +132,37 @@ proxy-groups:
       - US美国
       - US美国
       - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国mibei77.com 米贝节点分享)
-      - US美国mibei77.com 米贝节点分享) 
-      - US美国mibei77.com 米贝节点分享) 
   - name: ♻️ 自动选择
     type: url-test
     proxies:
-      - 爱尔兰
-      - 爱尔兰
-      - 爱尔兰
-      - 立陶宛
+      - DE德国
+      - DE德国
+      - DE德国
+      - RU俄罗斯
+      - RU俄罗斯
+      - NL荷兰
+      - NL荷兰
+      - 西班牙
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
       - 尼日利亚
       - 瑞典
       - 瑞典
-      - 瑞典
-      - 瑞典
-      - 瑞典
       - 塞舌尔
       - 塞舌尔
+      - TW台湾
+      - TW台湾
+      - TW台湾
+      - TW台湾
       - 西班牙
       - 西班牙
       - 西班牙
@@ -209,59 +176,22 @@ proxy-groups:
       - 意大利
       - 意大利
       - 意大利
+      - 意大利
+      - 意大利
+      - 意大利
+      - IN印度
+      - GB英国
       - CA加拿大
       - CA加拿大
       - CA加拿大
       - DE德国
       - DE德国
       - DE德国
-      - DE德国
-      - DE德国
-      - DE德国
-      - DE德国
-      - DE德国
-      - FR法国
       - GB英国
       - GB英国
-      - GB英国mibei77.com 米贝节点分享)
-      - GB英国mibei77.com 米贝节点分享) 
-      - GB英国mibei77.com 米贝节点分享) 
-      - GB英国mibei77.com 米贝节点分享) 
-      - GB英国mibei77.com 米贝节点分享) 
-      - GB英国mibei77.com 米贝节点分享) 
-      - GB英国mibei77.com 米贝节点分享) 
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
       - NL荷兰
       - NL荷兰
       - NL荷兰
-      - PL波兰
-      - PL波兰
-      - PL波兰
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - SG新加坡
       - SG新加坡
       - SG新加坡
       - TW台湾
@@ -269,8 +199,6 @@ proxy-groups:
       - TW台湾
       - TW台湾
       - TW台湾
-      - TW台湾
-      - TW台湾
       - US美国
       - US美国
       - US美国
@@ -295,32 +223,6 @@ proxy-groups:
       - US美国
       - US美国
       - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国mibei77.com 米贝节点分享)
-      - US美国mibei77.com 米贝节点分享) 
-      - US美国mibei77.com 米贝节点分享) 
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
@@ -330,18 +232,34 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 爱尔兰
-      - 爱尔兰
-      - 爱尔兰
-      - 立陶宛
+      - DE德国
+      - DE德国
+      - DE德国
+      - RU俄罗斯
+      - RU俄罗斯
+      - NL荷兰
+      - NL荷兰
+      - 西班牙
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
       - 尼日利亚
       - 瑞典
       - 瑞典
-      - 瑞典
-      - 瑞典
-      - 瑞典
       - 塞舌尔
       - 塞舌尔
+      - TW台湾
+      - TW台湾
+      - TW台湾
+      - TW台湾
       - 西班牙
       - 西班牙
       - 西班牙
@@ -355,59 +273,22 @@ proxy-groups:
       - 意大利
       - 意大利
       - 意大利
+      - 意大利
+      - 意大利
+      - 意大利
+      - IN印度
+      - GB英国
       - CA加拿大
       - CA加拿大
       - CA加拿大
       - DE德国
       - DE德国
       - DE德国
-      - DE德国
-      - DE德国
-      - DE德国
-      - DE德国
-      - DE德国
-      - FR法国
       - GB英国
       - GB英国
-      - GB英国mibei77.com 米贝节点分享)
-      - GB英国mibei77.com 米贝节点分享) 
-      - GB英国mibei77.com 米贝节点分享) 
-      - GB英国mibei77.com 米贝节点分享) 
-      - GB英国mibei77.com 米贝节点分享) 
-      - GB英国mibei77.com 米贝节点分享) 
-      - GB英国mibei77.com 米贝节点分享) 
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
       - NL荷兰
       - NL荷兰
       - NL荷兰
-      - PL波兰
-      - PL波兰
-      - PL波兰
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - SG新加坡
       - SG新加坡
       - SG新加坡
       - TW台湾
@@ -415,8 +296,6 @@ proxy-groups:
       - TW台湾
       - TW台湾
       - TW台湾
-      - TW台湾
-      - TW台湾
       - US美国
       - US美国
       - US美国
@@ -441,49 +320,39 @@ proxy-groups:
       - US美国
       - US美国
       - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国mibei77.com 米贝节点分享)
-      - US美国mibei77.com 米贝节点分享) 
-      - US美国mibei77.com 米贝节点分享) 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 爱尔兰
-      - 爱尔兰
-      - 爱尔兰
-      - 立陶宛
+      - DE德国
+      - DE德国
+      - DE德国
+      - RU俄罗斯
+      - RU俄罗斯
+      - NL荷兰
+      - NL荷兰
+      - 西班牙
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
       - 尼日利亚
       - 瑞典
       - 瑞典
-      - 瑞典
-      - 瑞典
-      - 瑞典
       - 塞舌尔
       - 塞舌尔
+      - TW台湾
+      - TW台湾
+      - TW台湾
+      - TW台湾
       - 西班牙
       - 西班牙
       - 西班牙
@@ -497,59 +366,22 @@ proxy-groups:
       - 意大利
       - 意大利
       - 意大利
+      - 意大利
+      - 意大利
+      - 意大利
+      - IN印度
+      - GB英国
       - CA加拿大
       - CA加拿大
       - CA加拿大
       - DE德国
       - DE德国
       - DE德国
-      - DE德国
-      - DE德国
-      - DE德国
-      - DE德国
-      - DE德国
-      - FR法国
       - GB英国
       - GB英国
-      - GB英国mibei77.com 米贝节点分享)
-      - GB英国mibei77.com 米贝节点分享) 
-      - GB英国mibei77.com 米贝节点分享) 
-      - GB英国mibei77.com 米贝节点分享) 
-      - GB英国mibei77.com 米贝节点分享) 
-      - GB英国mibei77.com 米贝节点分享) 
-      - GB英国mibei77.com 米贝节点分享) 
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
       - NL荷兰
       - NL荷兰
       - NL荷兰
-      - PL波兰
-      - PL波兰
-      - PL波兰
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - SG新加坡
       - SG新加坡
       - SG新加坡
       - TW台湾
@@ -557,8 +389,6 @@ proxy-groups:
       - TW台湾
       - TW台湾
       - TW台湾
-      - TW台湾
-      - TW台湾
       - US美国
       - US美国
       - US美国
@@ -583,49 +413,39 @@ proxy-groups:
       - US美国
       - US美国
       - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国mibei77.com 米贝节点分享)
-      - US美国mibei77.com 米贝节点分享) 
-      - US美国mibei77.com 米贝节点分享) 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 爱尔兰
-      - 爱尔兰
-      - 爱尔兰
-      - 立陶宛
+      - DE德国
+      - DE德国
+      - DE德国
+      - RU俄罗斯
+      - RU俄罗斯
+      - NL荷兰
+      - NL荷兰
+      - 西班牙
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
       - 尼日利亚
       - 瑞典
       - 瑞典
-      - 瑞典
-      - 瑞典
-      - 瑞典
       - 塞舌尔
       - 塞舌尔
+      - TW台湾
+      - TW台湾
+      - TW台湾
+      - TW台湾
       - 西班牙
       - 西班牙
       - 西班牙
@@ -639,59 +459,22 @@ proxy-groups:
       - 意大利
       - 意大利
       - 意大利
+      - 意大利
+      - 意大利
+      - 意大利
+      - IN印度
+      - GB英国
       - CA加拿大
       - CA加拿大
       - CA加拿大
       - DE德国
       - DE德国
       - DE德国
-      - DE德国
-      - DE德国
-      - DE德国
-      - DE德国
-      - DE德国
-      - FR法国
       - GB英国
       - GB英国
-      - GB英国mibei77.com 米贝节点分享)
-      - GB英国mibei77.com 米贝节点分享) 
-      - GB英国mibei77.com 米贝节点分享) 
-      - GB英国mibei77.com 米贝节点分享) 
-      - GB英国mibei77.com 米贝节点分享) 
-      - GB英国mibei77.com 米贝节点分享) 
-      - GB英国mibei77.com 米贝节点分享) 
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
       - NL荷兰
       - NL荷兰
       - NL荷兰
-      - PL波兰
-      - PL波兰
-      - PL波兰
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - SG新加坡
       - SG新加坡
       - SG新加坡
       - TW台湾
@@ -699,8 +482,6 @@ proxy-groups:
       - TW台湾
       - TW台湾
       - TW台湾
-      - TW台湾
-      - TW台湾
       - US美国
       - US美国
       - US美国
@@ -725,49 +506,39 @@ proxy-groups:
       - US美国
       - US美国
       - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国mibei77.com 米贝节点分享)
-      - US美国mibei77.com 米贝节点分享) 
-      - US美国mibei77.com 米贝节点分享) 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 爱尔兰
-      - 爱尔兰
-      - 爱尔兰
-      - 立陶宛
+      - DE德国
+      - DE德国
+      - DE德国
+      - RU俄罗斯
+      - RU俄罗斯
+      - NL荷兰
+      - NL荷兰
+      - 西班牙
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
       - 尼日利亚
       - 瑞典
       - 瑞典
-      - 瑞典
-      - 瑞典
-      - 瑞典
       - 塞舌尔
       - 塞舌尔
+      - TW台湾
+      - TW台湾
+      - TW台湾
+      - TW台湾
       - 西班牙
       - 西班牙
       - 西班牙
@@ -781,59 +552,22 @@ proxy-groups:
       - 意大利
       - 意大利
       - 意大利
+      - 意大利
+      - 意大利
+      - 意大利
+      - IN印度
+      - GB英国
       - CA加拿大
       - CA加拿大
       - CA加拿大
       - DE德国
       - DE德国
       - DE德国
-      - DE德国
-      - DE德国
-      - DE德国
-      - DE德国
-      - DE德国
-      - FR法国
       - GB英国
       - GB英国
-      - GB英国mibei77.com 米贝节点分享)
-      - GB英国mibei77.com 米贝节点分享) 
-      - GB英国mibei77.com 米贝节点分享) 
-      - GB英国mibei77.com 米贝节点分享) 
-      - GB英国mibei77.com 米贝节点分享) 
-      - GB英国mibei77.com 米贝节点分享) 
-      - GB英国mibei77.com 米贝节点分享) 
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
       - NL荷兰
       - NL荷兰
       - NL荷兰
-      - PL波兰
-      - PL波兰
-      - PL波兰
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - SG新加坡
       - SG新加坡
       - SG新加坡
       - TW台湾
@@ -841,8 +575,6 @@ proxy-groups:
       - TW台湾
       - TW台湾
       - TW台湾
-      - TW台湾
-      - TW台湾
       - US美国
       - US美国
       - US美国
@@ -867,32 +599,6 @@ proxy-groups:
       - US美国
       - US美国
       - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国mibei77.com 米贝节点分享)
-      - US美国mibei77.com 米贝节点分享) 
-      - US美国mibei77.com 米贝节点分享) 
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -915,18 +621,34 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 爱尔兰
-      - 爱尔兰
-      - 爱尔兰
-      - 立陶宛
+      - DE德国
+      - DE德国
+      - DE德国
+      - RU俄罗斯
+      - RU俄罗斯
+      - NL荷兰
+      - NL荷兰
+      - 西班牙
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
+      - US美国
       - 尼日利亚
       - 瑞典
       - 瑞典
-      - 瑞典
-      - 瑞典
-      - 瑞典
       - 塞舌尔
       - 塞舌尔
+      - TW台湾
+      - TW台湾
+      - TW台湾
+      - TW台湾
       - 西班牙
       - 西班牙
       - 西班牙
@@ -940,59 +662,22 @@ proxy-groups:
       - 意大利
       - 意大利
       - 意大利
+      - 意大利
+      - 意大利
+      - 意大利
+      - IN印度
+      - GB英国
       - CA加拿大
       - CA加拿大
       - CA加拿大
       - DE德国
       - DE德国
       - DE德国
-      - DE德国
-      - DE德国
-      - DE德国
-      - DE德国
-      - DE德国
-      - FR法国
       - GB英国
       - GB英国
-      - GB英国mibei77.com 米贝节点分享)
-      - GB英国mibei77.com 米贝节点分享) 
-      - GB英国mibei77.com 米贝节点分享) 
-      - GB英国mibei77.com 米贝节点分享) 
-      - GB英国mibei77.com 米贝节点分享) 
-      - GB英国mibei77.com 米贝节点分享) 
-      - GB英国mibei77.com 米贝节点分享) 
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
       - NL荷兰
       - NL荷兰
       - NL荷兰
-      - PL波兰
-      - PL波兰
-      - PL波兰
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - SG新加坡
       - SG新加坡
       - SG新加坡
       - TW台湾
@@ -1000,8 +685,6 @@ proxy-groups:
       - TW台湾
       - TW台湾
       - TW台湾
-      - TW台湾
-      - TW台湾
       - US美国
       - US美国
       - US美国
@@ -1026,32 +709,6 @@ proxy-groups:
       - US美国
       - US美国
       - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国mibei77.com 米贝节点分享)
-      - US美国mibei77.com 米贝节点分享) 
-      - US美国mibei77.com 米贝节点分享) 
 rule-providers:
   LocalAreaNetwork:
     type: http
