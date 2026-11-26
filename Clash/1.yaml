@@ -76,43 +76,22 @@ proxy-groups:
       - US美国
       - US美国
       - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
+      - TW台湾
+      - TW台湾
+      - TW台湾
+      - TW台湾
+      - TW台湾
+      - TW台湾
       - TW台湾
       - SG新加坡
       - SG新加坡
-      - SG新加坡
-      - SG新加坡
       - RU俄罗斯
       - RU俄罗斯
       - RU俄罗斯
       - RU俄罗斯
       - RU俄罗斯
       - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
+      - NL荷兰
       - NL荷兰
       - IN印度
       - HK香港
@@ -123,18 +102,11 @@ proxy-groups:
       - HK香港
       - HK香港
       - HK香港
-      - HK香港
-      - HK香港
       - GB英国
       - GB英国
       - GB英国
       - GB英国
-      - GB英国
-      - GB英国
-      - GB英国
-      - GB英国
-      - GB英国
-      - GB英国
+      - FR法国
       - FR法国
       - DE德国
       - DE德国
@@ -145,6 +117,7 @@ proxy-groups:
       - DE德国
       - DE德国
       - DE德国
+      - DE德国
       - CA加拿大
       - CA加拿大
       - CA加拿大
@@ -163,8 +136,10 @@ proxy-groups:
       - 意大利
       - 意大利
       - 意大利
-      - 意大利
-      - 以色列
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
       - 西班牙
       - 西班牙
       - 西班牙
@@ -175,9 +150,9 @@ proxy-groups:
       - 西班牙
       - 西班牙
       - 塞舌尔
-      - 瑞典
-      - 瑞典
-      - 瑞典
+      - 尼日尔
+      - 芬兰
+      - 巴西
       - 巴西
   - name: ♻️ 自动选择
     type: url-test
@@ -214,43 +189,22 @@ proxy-groups:
       - US美国
       - US美国
       - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
+      - TW台湾
+      - TW台湾
+      - TW台湾
+      - TW台湾
+      - TW台湾
+      - TW台湾
       - TW台湾
       - SG新加坡
       - SG新加坡
-      - SG新加坡
-      - SG新加坡
       - RU俄罗斯
       - RU俄罗斯
       - RU俄罗斯
       - RU俄罗斯
       - RU俄罗斯
       - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
+      - NL荷兰
       - NL荷兰
       - IN印度
       - HK香港
@@ -261,18 +215,11 @@ proxy-groups:
       - HK香港
       - HK香港
       - HK香港
-      - HK香港
-      - HK香港
       - GB英国
       - GB英国
       - GB英国
       - GB英国
-      - GB英国
-      - GB英国
-      - GB英国
-      - GB英国
-      - GB英国
-      - GB英国
+      - FR法国
       - FR法国
       - DE德国
       - DE德国
@@ -283,6 +230,7 @@ proxy-groups:
       - DE德国
       - DE德国
       - DE德国
+      - DE德国
       - CA加拿大
       - CA加拿大
       - CA加拿大
@@ -301,8 +249,10 @@ proxy-groups:
       - 意大利
       - 意大利
       - 意大利
-      - 意大利
-      - 以色列
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
       - 西班牙
       - 西班牙
       - 西班牙
@@ -313,9 +263,9 @@ proxy-groups:
       - 西班牙
       - 西班牙
       - 塞舌尔
-      - 瑞典
-      - 瑞典
-      - 瑞典
+      - 尼日尔
+      - 芬兰
+      - 巴西
       - 巴西
     url: http://www.gstatic.com/generate_204
     interval: 300
@@ -358,43 +308,22 @@ proxy-groups:
       - US美国
       - US美国
       - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
+      - TW台湾
+      - TW台湾
+      - TW台湾
+      - TW台湾
+      - TW台湾
+      - TW台湾
       - TW台湾
       - SG新加坡
       - SG新加坡
-      - SG新加坡
-      - SG新加坡
       - RU俄罗斯
       - RU俄罗斯
       - RU俄罗斯
       - RU俄罗斯
       - RU俄罗斯
       - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
+      - NL荷兰
       - NL荷兰
       - IN印度
       - HK香港
@@ -405,18 +334,11 @@ proxy-groups:
       - HK香港
       - HK香港
       - HK香港
-      - HK香港
-      - HK香港
       - GB英国
       - GB英国
       - GB英国
       - GB英国
-      - GB英国
-      - GB英国
-      - GB英国
-      - GB英国
-      - GB英国
-      - GB英国
+      - FR法国
       - FR法国
       - DE德国
       - DE德国
@@ -427,6 +349,7 @@ proxy-groups:
       - DE德国
       - DE德国
       - DE德国
+      - DE德国
       - CA加拿大
       - CA加拿大
       - CA加拿大
@@ -445,8 +368,10 @@ proxy-groups:
       - 意大利
       - 意大利
       - 意大利
-      - 意大利
-      - 以色列
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
       - 西班牙
       - 西班牙
       - 西班牙
@@ -457,9 +382,9 @@ proxy-groups:
       - 西班牙
       - 西班牙
       - 塞舌尔
-      - 瑞典
-      - 瑞典
-      - 瑞典
+      - 尼日尔
+      - 芬兰
+      - 巴西
       - 巴西
   - name: 📲 电报信息
     type: select
@@ -498,43 +423,22 @@ proxy-groups:
       - US美国
       - US美国
       - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
+      - TW台湾
+      - TW台湾
+      - TW台湾
+      - TW台湾
+      - TW台湾
+      - TW台湾
       - TW台湾
       - SG新加坡
       - SG新加坡
-      - SG新加坡
-      - SG新加坡
       - RU俄罗斯
       - RU俄罗斯
       - RU俄罗斯
       - RU俄罗斯
       - RU俄罗斯
       - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
+      - NL荷兰
       - NL荷兰
       - IN印度
       - HK香港
@@ -545,18 +449,11 @@ proxy-groups:
       - HK香港
       - HK香港
       - HK香港
-      - HK香港
-      - HK香港
       - GB英国
       - GB英国
       - GB英国
       - GB英国
-      - GB英国
-      - GB英国
-      - GB英国
-      - GB英国
-      - GB英国
-      - GB英国
+      - FR法国
       - FR法国
       - DE德国
       - DE德国
@@ -567,6 +464,7 @@ proxy-groups:
       - DE德国
       - DE德国
       - DE德国
+      - DE德国
       - CA加拿大
       - CA加拿大
       - CA加拿大
@@ -585,8 +483,10 @@ proxy-groups:
       - 意大利
       - 意大利
       - 意大利
-      - 意大利
-      - 以色列
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
       - 西班牙
       - 西班牙
       - 西班牙
@@ -597,9 +497,9 @@ proxy-groups:
       - 西班牙
       - 西班牙
       - 塞舌尔
-      - 瑞典
-      - 瑞典
-      - 瑞典
+      - 尼日尔
+      - 芬兰
+      - 巴西
       - 巴西
   - name: Ⓜ️ 微软服务
     type: select
@@ -638,43 +538,22 @@ proxy-groups:
       - US美国
       - US美国
       - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
+      - TW台湾
+      - TW台湾
+      - TW台湾
+      - TW台湾
+      - TW台湾
+      - TW台湾
       - TW台湾
       - SG新加坡
       - SG新加坡
-      - SG新加坡
-      - SG新加坡
       - RU俄罗斯
       - RU俄罗斯
       - RU俄罗斯
       - RU俄罗斯
       - RU俄罗斯
       - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
+      - NL荷兰
       - NL荷兰
       - IN印度
       - HK香港
@@ -685,18 +564,11 @@ proxy-groups:
       - HK香港
       - HK香港
       - HK香港
-      - HK香港
-      - HK香港
       - GB英国
       - GB英国
       - GB英国
       - GB英国
-      - GB英国
-      - GB英国
-      - GB英国
-      - GB英国
-      - GB英国
-      - GB英国
+      - FR法国
       - FR法国
       - DE德国
       - DE德国
@@ -707,6 +579,7 @@ proxy-groups:
       - DE德国
       - DE德国
       - DE德国
+      - DE德国
       - CA加拿大
       - CA加拿大
       - CA加拿大
@@ -725,8 +598,10 @@ proxy-groups:
       - 意大利
       - 意大利
       - 意大利
-      - 意大利
-      - 以色列
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
       - 西班牙
       - 西班牙
       - 西班牙
@@ -737,9 +612,9 @@ proxy-groups:
       - 西班牙
       - 西班牙
       - 塞舌尔
-      - 瑞典
-      - 瑞典
-      - 瑞典
+      - 尼日尔
+      - 芬兰
+      - 巴西
       - 巴西
   - name: 🍎 苹果服务
     type: select
@@ -778,43 +653,22 @@ proxy-groups:
       - US美国
       - US美国
       - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
+      - TW台湾
+      - TW台湾
+      - TW台湾
+      - TW台湾
+      - TW台湾
+      - TW台湾
       - TW台湾
       - SG新加坡
       - SG新加坡
-      - SG新加坡
-      - SG新加坡
       - RU俄罗斯
       - RU俄罗斯
       - RU俄罗斯
       - RU俄罗斯
       - RU俄罗斯
       - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
+      - NL荷兰
       - NL荷兰
       - IN印度
       - HK香港
@@ -825,18 +679,11 @@ proxy-groups:
       - HK香港
       - HK香港
       - HK香港
-      - HK香港
-      - HK香港
       - GB英国
       - GB英国
       - GB英国
       - GB英国
-      - GB英国
-      - GB英国
-      - GB英国
-      - GB英国
-      - GB英国
-      - GB英国
+      - FR法国
       - FR法国
       - DE德国
       - DE德国
@@ -847,6 +694,7 @@ proxy-groups:
       - DE德国
       - DE德国
       - DE德国
+      - DE德国
       - CA加拿大
       - CA加拿大
       - CA加拿大
@@ -865,8 +713,10 @@ proxy-groups:
       - 意大利
       - 意大利
       - 意大利
-      - 意大利
-      - 以色列
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
       - 西班牙
       - 西班牙
       - 西班牙
@@ -877,9 +727,9 @@ proxy-groups:
       - 西班牙
       - 西班牙
       - 塞舌尔
-      - 瑞典
-      - 瑞典
-      - 瑞典
+      - 尼日尔
+      - 芬兰
+      - 巴西
       - 巴西
   - name: 🎯 全球直连
     type: select
@@ -935,43 +785,22 @@ proxy-groups:
       - US美国
       - US美国
       - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
-      - US美国
+      - TW台湾
+      - TW台湾
+      - TW台湾
+      - TW台湾
+      - TW台湾
+      - TW台湾
       - TW台湾
       - SG新加坡
       - SG新加坡
-      - SG新加坡
-      - SG新加坡
       - RU俄罗斯
       - RU俄罗斯
       - RU俄罗斯
       - RU俄罗斯
       - RU俄罗斯
       - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
-      - RU俄罗斯
+      - NL荷兰
       - NL荷兰
       - IN印度
       - HK香港
@@ -982,18 +811,11 @@ proxy-groups:
       - HK香港
       - HK香港
       - HK香港
-      - HK香港
-      - HK香港
       - GB英国
       - GB英国
       - GB英国
       - GB英国
-      - GB英国
-      - GB英国
-      - GB英国
-      - GB英国
-      - GB英国
-      - GB英国
+      - FR法国
       - FR法国
       - DE德国
       - DE德国
@@ -1004,6 +826,7 @@ proxy-groups:
       - DE德国
       - DE德国
       - DE德国
+      - DE德国
       - CA加拿大
       - CA加拿大
       - CA加拿大
@@ -1022,8 +845,10 @@ proxy-groups:
       - 意大利
       - 意大利
       - 意大利
-      - 意大利
-      - 以色列
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
       - 西班牙
       - 西班牙
       - 西班牙
@@ -1034,9 +859,9 @@ proxy-groups:
       - 西班牙
       - 西班牙
       - 塞舌尔
-      - 瑞典
-      - 瑞典
-      - 瑞典
+      - 尼日尔
+      - 芬兰
+      - 巴西
       - 巴西
 rule-providers:
   LocalAreaNetwork:
