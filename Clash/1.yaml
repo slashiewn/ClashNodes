@@ -77,14 +77,6 @@ proxy-groups:
       - US美国
       - US美国
       - US美国
-      - US美国
-      - TW台湾
-      - TW台湾
-      - TW台湾
-      - TW台湾
-      - TW台湾
-      - TW台湾
-      - SG新加坡
       - SG新加坡
       - RU俄罗斯
       - RU俄罗斯
@@ -100,82 +92,7 @@ proxy-groups:
       - RU俄罗斯
       - RU俄罗斯
       - NL荷兰
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
+      - KR韩国
       - JP日本
       - JP日本
       - JP日本
@@ -188,15 +105,22 @@ proxy-groups:
       - JP日本
       - IN印度
       - HK香港
+      - HK香港
       - GB英国
       - GB英国
       - GB英国
+      - GB英国
+      - GB英国
       - DE德国
       - DE德国
       - DE德国
       - DE德国
       - DE德国
-      - CA加拿大
+      - DE德国
+      - DE德国
+      - DE德国
+      - DE德国
+      - DE德国
       - CA加拿大
       - CA加拿大
       - CA加拿大
@@ -211,6 +135,20 @@ proxy-groups:
       - 西班牙
       - 西班牙
       - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 尼日利亚
+      - 尼日利亚
+      - 南非
+      - 阿联酋
+      - 阿拉伯
   - name: ♻️ 自动选择
     type: url-test
     proxies:
@@ -247,14 +185,6 @@ proxy-groups:
       - US美国
       - US美国
       - US美国
-      - US美国
-      - TW台湾
-      - TW台湾
-      - TW台湾
-      - TW台湾
-      - TW台湾
-      - TW台湾
-      - SG新加坡
       - SG新加坡
       - RU俄罗斯
       - RU俄罗斯
@@ -270,82 +200,7 @@ proxy-groups:
       - RU俄罗斯
       - RU俄罗斯
       - NL荷兰
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
+      - KR韩国
       - JP日本
       - JP日本
       - JP日本
@@ -358,15 +213,22 @@ proxy-groups:
       - JP日本
       - IN印度
       - HK香港
+      - HK香港
       - GB英国
       - GB英国
       - GB英国
+      - GB英国
+      - GB英国
       - DE德国
       - DE德国
       - DE德国
       - DE德国
       - DE德国
-      - CA加拿大
+      - DE德国
+      - DE德国
+      - DE德国
+      - DE德国
+      - DE德国
       - CA加拿大
       - CA加拿大
       - CA加拿大
@@ -381,6 +243,20 @@ proxy-groups:
       - 西班牙
       - 西班牙
       - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 尼日利亚
+      - 尼日利亚
+      - 南非
+      - 阿联酋
+      - 阿拉伯
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
@@ -423,14 +299,6 @@ proxy-groups:
       - US美国
       - US美国
       - US美国
-      - US美国
-      - TW台湾
-      - TW台湾
-      - TW台湾
-      - TW台湾
-      - TW台湾
-      - TW台湾
-      - SG新加坡
       - SG新加坡
       - RU俄罗斯
       - RU俄罗斯
@@ -446,82 +314,7 @@ proxy-groups:
       - RU俄罗斯
       - RU俄罗斯
       - NL荷兰
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
+      - KR韩国
       - JP日本
       - JP日本
       - JP日本
@@ -534,15 +327,22 @@ proxy-groups:
       - JP日本
       - IN印度
       - HK香港
+      - HK香港
       - GB英国
       - GB英国
       - GB英国
+      - GB英国
+      - GB英国
       - DE德国
       - DE德国
       - DE德国
       - DE德国
       - DE德国
-      - CA加拿大
+      - DE德国
+      - DE德国
+      - DE德国
+      - DE德国
+      - DE德国
       - CA加拿大
       - CA加拿大
       - CA加拿大
@@ -557,6 +357,20 @@ proxy-groups:
       - 西班牙
       - 西班牙
       - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 尼日利亚
+      - 尼日利亚
+      - 南非
+      - 阿联酋
+      - 阿拉伯
   - name: 📲 电报信息
     type: select
     proxies:
@@ -595,14 +409,6 @@ proxy-groups:
       - US美国
       - US美国
       - US美国
-      - US美国
-      - TW台湾
-      - TW台湾
-      - TW台湾
-      - TW台湾
-      - TW台湾
-      - TW台湾
-      - SG新加坡
       - SG新加坡
       - RU俄罗斯
       - RU俄罗斯
@@ -618,82 +424,7 @@ proxy-groups:
       - RU俄罗斯
       - RU俄罗斯
       - NL荷兰
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
+      - KR韩国
       - JP日本
       - JP日本
       - JP日本
@@ -706,15 +437,22 @@ proxy-groups:
       - JP日本
       - IN印度
       - HK香港
+      - HK香港
       - GB英国
       - GB英国
       - GB英国
+      - GB英国
+      - GB英国
       - DE德国
       - DE德国
       - DE德国
       - DE德国
       - DE德国
-      - CA加拿大
+      - DE德国
+      - DE德国
+      - DE德国
+      - DE德国
+      - DE德国
       - CA加拿大
       - CA加拿大
       - CA加拿大
@@ -729,6 +467,20 @@ proxy-groups:
       - 西班牙
       - 西班牙
       - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 尼日利亚
+      - 尼日利亚
+      - 南非
+      - 阿联酋
+      - 阿拉伯
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -767,14 +519,6 @@ proxy-groups:
       - US美国
       - US美国
       - US美国
-      - US美国
-      - TW台湾
-      - TW台湾
-      - TW台湾
-      - TW台湾
-      - TW台湾
-      - TW台湾
-      - SG新加坡
       - SG新加坡
       - RU俄罗斯
       - RU俄罗斯
@@ -790,82 +534,7 @@ proxy-groups:
       - RU俄罗斯
       - RU俄罗斯
       - NL荷兰
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
+      - KR韩国
       - JP日本
       - JP日本
       - JP日本
@@ -878,15 +547,22 @@ proxy-groups:
       - JP日本
       - IN印度
       - HK香港
+      - HK香港
       - GB英国
       - GB英国
       - GB英国
+      - GB英国
+      - GB英国
       - DE德国
       - DE德国
       - DE德国
       - DE德国
       - DE德国
-      - CA加拿大
+      - DE德国
+      - DE德国
+      - DE德国
+      - DE德国
+      - DE德国
       - CA加拿大
       - CA加拿大
       - CA加拿大
@@ -901,6 +577,20 @@ proxy-groups:
       - 西班牙
       - 西班牙
       - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 尼日利亚
+      - 尼日利亚
+      - 南非
+      - 阿联酋
+      - 阿拉伯
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -939,14 +629,6 @@ proxy-groups:
       - US美国
       - US美国
       - US美国
-      - US美国
-      - TW台湾
-      - TW台湾
-      - TW台湾
-      - TW台湾
-      - TW台湾
-      - TW台湾
-      - SG新加坡
       - SG新加坡
       - RU俄罗斯
       - RU俄罗斯
@@ -962,82 +644,7 @@ proxy-groups:
       - RU俄罗斯
       - RU俄罗斯
       - NL荷兰
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
+      - KR韩国
       - JP日本
       - JP日本
       - JP日本
@@ -1050,15 +657,22 @@ proxy-groups:
       - JP日本
       - IN印度
       - HK香港
+      - HK香港
       - GB英国
       - GB英国
       - GB英国
+      - GB英国
+      - GB英国
       - DE德国
       - DE德国
       - DE德国
       - DE德国
       - DE德国
-      - CA加拿大
+      - DE德国
+      - DE德国
+      - DE德国
+      - DE德国
+      - DE德国
       - CA加拿大
       - CA加拿大
       - CA加拿大
@@ -1073,6 +687,20 @@ proxy-groups:
       - 西班牙
       - 西班牙
       - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 尼日利亚
+      - 尼日利亚
+      - 南非
+      - 阿联酋
+      - 阿拉伯
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -1128,14 +756,6 @@ proxy-groups:
       - US美国
       - US美国
       - US美国
-      - US美国
-      - TW台湾
-      - TW台湾
-      - TW台湾
-      - TW台湾
-      - TW台湾
-      - TW台湾
-      - SG新加坡
       - SG新加坡
       - RU俄罗斯
       - RU俄罗斯
@@ -1151,82 +771,7 @@ proxy-groups:
       - RU俄罗斯
       - RU俄罗斯
       - NL荷兰
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
-      - JP日本
+      - KR韩国
       - JP日本
       - JP日本
       - JP日本
@@ -1239,15 +784,22 @@ proxy-groups:
       - JP日本
       - IN印度
       - HK香港
+      - HK香港
       - GB英国
       - GB英国
       - GB英国
+      - GB英国
+      - GB英国
       - DE德国
       - DE德国
       - DE德国
       - DE德国
       - DE德国
-      - CA加拿大
+      - DE德国
+      - DE德国
+      - DE德国
+      - DE德国
+      - DE德国
       - CA加拿大
       - CA加拿大
       - CA加拿大
@@ -1262,6 +814,20 @@ proxy-groups:
       - 西班牙
       - 西班牙
       - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 西班牙
+      - 尼日利亚
+      - 尼日利亚
+      - 南非
+      - 阿联酋
+      - 阿拉伯
 rule-providers:
   LocalAreaNetwork:
     type: http
